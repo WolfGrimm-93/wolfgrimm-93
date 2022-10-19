@@ -1,18 +1,3 @@
-<!--
-**WolfGrimm-93/wolfgrimm-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Miguel they all call me wolfgrimm</h1>
 <h3 align="center">A passionate Fullstack Developer from Dominican Republic 🇩🇴</h3>
 
@@ -20,13 +5,13 @@ Here are some ideas to get you started:
 <br/>
 
 *   🌍  I'm based in Zaragoza Spain
-*   ✉️  You can contact me at [wolfgrimm.wd@gmail.com](mailto:wolfgrimm.dp@gmail.com) or [wolfgrimm.wd@gmail.com](mailto:wolfgrimm.wd@gmail.com)
+*   ✉️  You can contact me at [wolfgrimm.dp](mailto:wolfgrimm.dp@gmail.com) or [wolfgrimm.wd](mailto:wolfgrimm.wd@gmail.com)
 *   🚀  I'm currently working on [Freelancer](https://wolfgrimm.com/)
 *   🧠  I'm learning C#, Asp.Net, HTML, CSS, PHP, Java Script, React, WordPress
 *   🤝  I'm open to collaborating on C#, Asp.Net Core, HTML, CSS, WordPress, Dotnet projects
-*   👨‍💻 All of my projects are available at [https://wolfgrimm.com/](https://wolfgrimm.com/)
-*   📝 I regularly write articles on [https://wolfgrimm.com/](https://wolfgrimm.com/)
-*   📄 Know about my experiences [https://wolfgrimm.com/](https://wolfgrimm.com/)
+*   👨‍💻 All of my projects are available at [Projects](https://wolfgrimm.com/)
+*   📝 I regularly write articles on [Post](https://wolfgrimm.com/)
+*   📄 Know about my experiences [know more](https://wolfgrimm.com/)
 
 <br/>
 
