@@ -7,7 +7,7 @@
 *   🌍  I'm based in Zaragoza, Spain 🇪🇸
 *   ✉️  You can contact me at [wolfgrimm.dp](mailto:wolfgrimm.dp@gmail.com) or [wolfgrimm.wd](mailto:wolfgrimm.wd@gmail.com)
 *   🚀  I'm currently working on [Freelancer](https://wolfgrimm.com/)
-*   🧠  I'm learning C#, Asp.Net, HTML, CSS, PHP, Java Script, React, WordPress
+*   🧠  I'm learning C#, Asp.Net, HTML, CSS, PHP, Java Script, React JS, WordPress
 *   🤝  I'm open to collaborating on C#, Asp.Net Core, HTML, CSS, WordPress, Dotnet projects
 *   👨‍💻 All of my projects are available at [Projects](https://wolfgrimm.com/)
 *   📝 I regularly write articles on [Post](https://wolfgrimm.com/)
