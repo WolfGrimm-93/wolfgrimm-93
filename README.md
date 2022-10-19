@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-*   🌍  I'm based in Zaragoza Spain
+*   🌍  I'm based in Zaragoza, Spain 🇪🇸
 *   ✉️  You can contact me at [wolfgrimm.dp](mailto:wolfgrimm.dp@gmail.com) or [wolfgrimm.wd](mailto:wolfgrimm.wd@gmail.com)
 *   🚀  I'm currently working on [Freelancer](https://wolfgrimm.com/)
 *   🧠  I'm learning C#, Asp.Net, HTML, CSS, PHP, Java Script, React, WordPress
