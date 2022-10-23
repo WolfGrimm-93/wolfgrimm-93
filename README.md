@@ -2,9 +2,13 @@
 <h3 align="center">A passionate Fullstack Developer from Dominican Republic 🇩🇴</h3>
 
 <br/>
+
+<p align="center">🌍  I'm based in Zaragoza, Spain 🇪🇸, I am always looking to achieve my goals, including new learning experiences, I love computers, video games, anime, manga, movies and I am a super fan of Marvel, I also learn new things and dream big.<p>
+<p align="center">My favorite overcoming phrase is: "Exceed your limits here and now"</p>
+
+<br/>
 <br/>
 
-*   🌍  I'm based in Zaragoza, Spain 🇪🇸
 *   ✉️  You can contact me at [wolfgrimm.dp](mailto:wolfgrimm.dp@gmail.com) or [wolfgrimm.wd](mailto:wolfgrimm.wd@gmail.com)
 *   🚀  I'm currently working on [Freelancer](https://wolfgrimm.com/)
 *   🧠  I'm learning C#, Asp.Net, HTML, CSS, PHP, Java Script, React JS, WordPress
