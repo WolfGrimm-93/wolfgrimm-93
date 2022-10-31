@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel they all call me wolfgrimm</h1>
-<h3 align="center">A passionate Fullstack Developer from Dominican Republic 🇩🇴</h3>
+<h3 align="center">A passionate Junior Fullstack Developer from Dominican Republic 🇩🇴</h3>
 
 <br/>
 
