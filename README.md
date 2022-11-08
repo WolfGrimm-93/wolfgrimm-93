@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<a href="https://wolfgrimm.com/wp-content/uploads/2022/09/"><img src="cropped-cropped-Logo_WolfGrimm.png" alt="WolfGrimm"></a>
+<img src="https://wolfgrimm.com/wp-content/uploads/2022/09/cropped-cropped-Logo_WolfGrimm.png">
 
 
 *   ✉️  You can contact me at [wolfgrimm.dp](mailto:wolfgrimm.dp@gmail.com) or [wolfgrimm.wd](mailto:wolfgrimm.wd@gmail.com)
