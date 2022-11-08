@@ -1,5 +1,5 @@
 
-<a align="center"><img src="https://wolfgrimm.com/wp-content/uploads/2022/09/cropped-cropped-Logo_WolfGrimm.png"></a>
+<img src="https://wolfgrimm.com/wp-content/uploads/2022/09/cropped-cropped-Logo_WolfGrimm.png" class="centerImage">
 <h1 align="center">Hi 👋, I'm Miguel they all call me wolfgrimm</h1>
 <h3 align="center">A passionate Systems Engineer from Dominican Republic 🇩🇴</h3>
 
