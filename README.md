@@ -29,7 +29,7 @@
 <h4 align="left">Connect with me:</h4>
 <p align="left">
  
-[![Linkedin: miguel-angel-ferrer-wolfgrimm](https://img.shields.io/badge/-miguel-angel-ferrer-wolfgrimm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/miguel-angel-ferrer-wolfgrimm/)](https://linkedin.com/in/miguel-angel-ferrer-wolfgrimm/)
+[![Linkedin: miguel-angel-ferrer-wolfgrimm](https://img.shields.io/badge/miguel-angel-ferrer-wolfgrimm?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/miguel-angel-ferrer-wolfgrimm/)](https://linkedin.com/in/miguel-angel-ferrer-wolfgrimm/)
 [![Youtube: WolfGrimm](https://img.shields.io/youtube/channel/subscribers/UCZ1P3WxdV-3SLHPisud2cgQ?style=social)](https://www.youtube.com/channel/UCZ1P3WxdV-3SLHPisud2cgQ)
 [![GitHub WolfGrimm-93](https://img.shields.io/github/followers/WolfGrimm-93?style=social)](https://github.com/WolfGrimm-93)
  
