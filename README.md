@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">🌍  I'm based in Zaragoza, Spain 🇪🇸, I am always looking to achieve my goals, including new learning experiences, I love computers, video games, anime, manga, movies and I am a super fan of Marvel, I also learn new things and dream big.<p>
-<p align="center"><em>My favorite overcoming phrase is: "Exceed your limits here and now"</em></p>
+<p align="center"><strong>My favorite overcoming phrase is: <em>"Exceed your limits here and now"</em></strong></p>
 
 <br/>
 
