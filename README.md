@@ -1,6 +1,6 @@
 
 <div>
- <center><img src="https://wolfgrimm.com/wp-content/uploads/2022/09/cropped-cropped-Logo_WolfGrimm.png" ></center>
+ <center><img src="https://github.com/WolfGrimm-93/wolfgrimm-93/blob/main/WolfGrimm%20Banner.png" ></center>
 </div>
 
 
