@@ -55,7 +55,7 @@
 </p>
 <br/>
 
-<h3 align="left">Support:</h3>
+<h4 align="left">Support:</h4>
 <p><a href="https://www.buymeacoffee.com/wolfgrimm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wolfgrimm" /></a></p><br><br>
 
 
