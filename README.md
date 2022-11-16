@@ -1,6 +1,6 @@
 
 <div>
- <center><img src="https://github.com/WolfGrimm-93/wolfgrimm-93/blob/main/WolfGrimm%20Banner.png" alt="[WolfGrimm](https://wolfgrimm.com/)"></center>
+ <center>![WolfGrimm Banner] (https://github.com/WolfGrimm-93/wolfgrimm-93/blob/main/WolfGrimm%20Banner.png)</center> 
 </div>
 
 
