@@ -1,6 +1,6 @@
 
 <div>
- <center><a title="Wolfgrimm" href="https://wolfgrimm.com/"><img src="https://github.com/WolfGrimm-93/wolfgrimm-93/blob/main/WolfGrimm%20Banner.png"></a></center> 
+ <center><a title="Wolfgrimm" href="https://wolfgrimm.com/"><img src="https://github.com/WolfGrimm-93/wolfgrimm-93/blob/main/WolfGrimm%20Banner%202.png"></a></center> 
 </div>
 
 
