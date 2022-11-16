@@ -10,20 +10,15 @@
 <br/>
 
 <p align="center">🌍  I'm based in Zaragoza, Spain 🇪🇸, I am always looking to achieve my goals, including new learning experiences, I love computers, video games, anime, manga, movies and I am a super fan of Marvel, I also learn new things and dream big.<p>
-<p align="center">My favorite overcoming phrase is: "Exceed your limits here and now"</p>
+<p align="center"><em>My favorite overcoming phrase is: "Exceed your limits here and now"</em></p>
 
 <br/>
-<br/>
-
-
-
 
 *   ✉️  You can contact me at [wolfgrimm.dp](mailto:wolfgrimm.dp@gmail.com) or [wolfgrimm.wd](mailto:wolfgrimm.wd@gmail.com)
 *   🚀  I'm currently working on [Freelancer](https://wolfgrimm.com/)
 *   🧠  I'm learning C#, Asp.Net, HTML, CSS, PHP, Java Script, React JS, WordPress
 *   🤝  I'm open to collaborating on C#, Asp.Net Core, HTML, CSS, WordPress, Dotnet projects
 *   👨‍💻 All of my projects are available at [Projects](https://wolfgrimm.com/)
-
 <br/>
 
 <h4 align="left">Connect with me:</h4>
