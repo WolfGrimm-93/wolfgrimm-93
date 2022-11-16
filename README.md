@@ -1,6 +1,6 @@
 
 <div>
- <center><img src="https://github.com/WolfGrimm-93/wolfgrimm-93/blob/main/WolfGrimm%20Banner.png" ></center>
+ <center>[![WolfGrimm](https://wolfgrimm.com/)]<img src="https://github.com/WolfGrimm-93/wolfgrimm-93/blob/main/WolfGrimm%20Banner.png" ></center>
 </div>
 
 
@@ -23,8 +23,6 @@
 *   🧠  I'm learning C#, Asp.Net, HTML, CSS, PHP, Java Script, React JS, WordPress
 *   🤝  I'm open to collaborating on C#, Asp.Net Core, HTML, CSS, WordPress, Dotnet projects
 *   👨‍💻 All of my projects are available at [Projects](https://wolfgrimm.com/)
-*   📝 I regularly write articles on [Post](https://wolfgrimm.com/)
-*   📄 Know about my experiences [know more](https://wolfgrimm.com/)
 
 <br/>
 
