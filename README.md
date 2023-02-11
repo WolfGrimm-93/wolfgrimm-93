@@ -1,9 +1,3 @@
-
-<div>
- <center><a title="Wolfgrimm" href="https://wolfgrimm.com/"><img src="https://github.com/WolfGrimm-93/wolfgrimm-93/blob/main/WolfGrimm%20Banner%202.png"></a></center> 
-</div>
-
-
 <h1 align="center">Hi 👋, I'm Miguel they all call me wolfgrimm</h1>
 <h3 align="center">A passionate Systems Engineer from Dominican Republic 🇩🇴</h3>
 
