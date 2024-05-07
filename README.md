@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Miguel they all call me wolfgrimm</h1>
-<h3 align="center">A passionate Systems Engineer from Dominican Republic 🇩🇴</h3>
+<h1 align="center">Hello 👋, I'm Miguel, although many know me online as "Wolfgrimm".</h1>
 
 <br/>
 
-<p align="center">🌍  I'm based in Zaragoza, Spain 🇪🇸, I am always looking to achieve my goals, including new learning experiences, I love computers, video games, anime, manga, movies and I am a super fan of Marvel, I also learn new things and dream big.<p>
-<p align="center"><strong>My favorite overcoming phrase is: <em>"Exceed your limits here and now"</em></strong></p>
+<p align="center">🌍  I am a Systems Engineer. I have a deep interest in technology, video games, anime, manga, movies, and basketball. I'm a big fan of both Marvel and DC.<p>
+<p align="center"><strong>My favorite motivational quote is: <em>"Surpass your limits here and now".</em></strong></p> 
 
 <br/>
 
